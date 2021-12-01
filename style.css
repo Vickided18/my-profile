@@ -1,0 +1,63 @@
+ 
+/* colors and font*/
+body {
+background-color: indianred(230, 230, 230);
+font-family: Gill Sans;
+font-size: 20px;
+}
+ 
+h1 {
+color: indianred;
+font-family: Gill Sans;
+font-size: 40px;
+}
+ 
+h2 {
+color: indianred ;(85, 107, 47);
+font-family: Gill Sans; 
+font-weight: 900;
+font-size: 21px;
+}
+ 
+a {
+text-decoration: none;
+color: indianred(102, 153, 204);
+}
+ 
+ 
+ 
+ 
+.container {
+	color: indianred
+	font-family 
+                width: 700px;
+    margin: 40px auto;
+ 
+}
+ 
+.card-white{
+                background-color: mistyrose;
+                padding: 40px;
+                box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+                border-radius: 4px;
+                margin: 20px 0px;
+                text-align: center;
+}
+ 
+.img-circle {
+                border-radius: 50%;
+}
+ 
+ 
+ 
+.list-inline {
+                list-style:none;
+                padding-left: 20px;
+}
+ 
+ 
+#intro p {
+                margin-bottom: 40px;
+ 
+}
+ 
